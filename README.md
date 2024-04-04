@@ -1,6 +1,6 @@
 # Project-2
 
-## Aditya's Cost-Sensitive Logistic Regression for Minimizing False Negatives
+## Cost-Sensitive Logistic Regression for Minimizing False Negatives (Aditya)
 
 This project tackles a classification problem using logistic regression, focusing on minimizing false negatives. The repository contains a Jupyter notebook for data preparation and a Python script for model training, optimization, and evaluation.
 
